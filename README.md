@@ -54,3 +54,30 @@
 ---|:---:|---:
 APEX|81|free
 CSGO|10|98
+
+## 插入代码
+
+```C
+#include<stdio.h>
+
+int main(void){
+	printf("test");
+	return 0;
+}
+```
+
+```python
+
+```
+
+```cpp
+
+```
+
+```java
+
+```
+
+```bash
+	echo "数据回显"
+```
