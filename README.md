@@ -55,6 +55,8 @@
 APEX|81|free
 CSGO|10|98
 
+----
+
 ## 插入代码
 
 ```C
@@ -81,3 +83,11 @@ int main(void){
 ```bash
 	echo "数据回显"
 ```
+
+## 超链接
+[百度搜索](https://www.baidu.com "点击进入")
+
+
+## 图片插入
+
+![桌面截图](C://Users//23843//Desktop//xxx.png "def")
